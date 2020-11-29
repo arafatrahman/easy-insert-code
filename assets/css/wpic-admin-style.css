@@ -38,6 +38,9 @@
   color: white;
 }
 
+#wpic-header,#wpic-body,#wpic-footer{
+    padding-left: 37px !important; 
+}
 
 .wpicTabcontent {
   float: left;

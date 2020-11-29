@@ -25,17 +25,17 @@ if ( isset($_POST['submit'] ) ) {
 
 <div id="wpic-header" class="wpicTabcontent" >
   <p>These code , text or scripts will be placed in the <head> section. of your website</p>
-                    <textarea name="kau-wpic-textarea-header" rows="10" cols="100" ><?php echo kauget('kau-wpic-textarea-header', $getWpic);?></textarea>
+                    <textarea name="kau-wpic-textarea-header" rows="10" cols="120" ><?php echo kauget('kau-wpic-textarea-header', $getWpic);?></textarea>
 </div>
 
 <div id="wpic-body" class="wpicTabcontent">
   <p>These code , text or scripts will be placed just below the opening <body> tag on your website</p>
-                    <textarea name="kau-wpic-textarea-body" rows="10" cols="100" ><?php echo kauget('kau-wpic-textarea-body', $getWpic);?></textarea> 
+                    <textarea name="kau-wpic-textarea-body" rows="10" cols="120" ><?php echo kauget('kau-wpic-textarea-body', $getWpic);?></textarea> 
 </div>
 
 <div id="wpic-footer" class="wpicTabcontent">
   <p>These code , text or scripts will be placed in the closing </body> tag on your website</p>
-  <textarea name="kau-wpic-textarea-footer" rows="10" cols="100" ><?php echo kauget('kau-wpic-textarea-footer', $getWpic);?></textarea>
+  <textarea name="kau-wpic-textarea-footer" rows="10" cols="120" ><?php echo kauget('kau-wpic-textarea-footer', $getWpic);?></textarea>
 
 </div>
 
