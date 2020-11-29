@@ -4,8 +4,9 @@ class wpic_admin extends wpic_setting {
 
     public static function Init() {
         add_action('admin_menu', array(__CLASS__, 'wp_insert_code_register_options_page'));
-        
+       
     }
+    
     
     
     public static function wp_insert_code_register_options_page() {
