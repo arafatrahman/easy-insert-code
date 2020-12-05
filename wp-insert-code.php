@@ -2,6 +2,7 @@
 
 /**
  * Plugin Name: WP Insert Code Headers and Footers
+ * Plugin URI: http://www.kauniaweb.com/wp-insert-code-headers-and-footers
  * Description: Wp insert code plugin helps you to insert code/text in the header ( <head> ),footer( </body> ) and body<body> tag of your WordPress websites
  * Author: Arafat Rahman Riyad
  * Version: 1.0.0
