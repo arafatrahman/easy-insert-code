@@ -18,6 +18,12 @@ With this plugin you can easily place the code or text you need in the header an
 Our website often requires the use of custom CSS or JS . For thats You can use our plugin to solve this problem .
 With this plugin you can easily add header script or footer script and even any kind of code or test to the body if you want.
 Hey you don't need too much coding to use the plugin . you just add your code / text and see the magic.
+However, if you have any problems with the installation or use of the plugin, 
+you can contact us without any hesitation.Support Email arafatrahmank@gmail.com
+Give us feedback, suggestions, bug reports, and any other contributions on the in
+the plugin's [GitHub repository](https://github.com/arafatrahman/wp-insert-code-headers-and-footers).
+WP Latest Posts Widget With Thumbnails plugin does not collect any personal data, so it is 
+**ready for EU General Data Protection Regulation (GDPR) compliance**.
 
 == Installation ==
 
