@@ -1,12 +1,13 @@
 <?php
 
 /**
- * Plugin Name: WP Insert Code
- * Plugin URI: http://www.kuaniaweb.com
+ * Plugin Name: WP Insert Code Headers and Footers
  * Description: Wp insert code plugin helps you to insert code/text in the header ( <head> ),footer( </body> ) and body<body> tag of your WordPress websites
- * Version: 0.0.1
  * Author: Arafat Rahman Riyad
- * Author URI: Author's website
+ * Version: 1.0.0
+ * Author URI:   http://kauniaweb.com/
+ * Text Domain:  wp-insert-code-headers-and-footers
+ * Domain Path: /languages
  */
 define("WPIC_PATH", dirname(__FILE__));
 define('WPIC_ASSETS_DIR_URI', plugins_url('assets', __FILE__));

@@ -14,13 +14,8 @@ class wpic_admin extends wpic_setting {
     }
 
     public static function wpic_option_page() {
-        if (isset($_POST['awesome_text'])) {
-        $value = $_POST['awesome_text'];
-        update_option('awesome_text', $value);
-    }
 
-    $value = get_option('awesome_text', 'hey-ho');
       include_once WPIC_PATH . "/views/wp-insert-code-view.php";
-    }  
+    }
 
 }
