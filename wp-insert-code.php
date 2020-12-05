@@ -25,8 +25,12 @@ WPIC_plugin_load();
 add_action('admin_enqueue_scripts', 'wpic_admin_styles');
 
 function wpic_admin_styles() {
+    $screen = get_current_screen();
+    if ('settings_page_kau-wp-insert-code' == $screen->id) {
     wp_enqueue_style('wpic_admin', plugins_url('assets/css/wpic-admin-style.css', __FILE__), array(), '0.0.1');
     wp_enqueue_script('wpic_main', plugins_url('assets/js/wpic-main.js', __FILE__), array(), '0.0.1');
+    }
+    
 }
 
 add_action('wp_head', 'wpic_show_header');
