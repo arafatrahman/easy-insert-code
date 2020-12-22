@@ -18,7 +18,6 @@ if(eic_post('submit')){
 }
 
  $getEic = EIC_setting::getEic();
- echo eicget( 'kau-eic-textarea-body',$getEic);
  
 ?>
 

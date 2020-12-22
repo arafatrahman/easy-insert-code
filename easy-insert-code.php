@@ -43,7 +43,7 @@ if (!function_exists('eic_show_header')) {
     {
         $eicValue = EIC_setting::getEic();
 
-        esc_html_e(eicget('kau-eic-textarea-header', $eicValue));
+        
         echo htmlspecialchars_decode(eicget('kau-eic-textarea-header', $eicValue));
     }
 }

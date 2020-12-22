@@ -58,7 +58,10 @@ You can install from within WordPress using the Plugin/Add New feature, or if yo
 5. Congratulations! you are now ready to work
 
 == Screenshots ==
-1. The first screenshot shows WP Insert Code Headers and Footers Settings Section.
+1. Easy Insert Code Installation page
+2. You need to select Easy Inser code under settings tab and also you can insert code in header like sample code look like.
+3. You can also add code html <body> tag
+4. You can also add code html footer( </body> )
 
 = for developers: Supported Hooks =
 
