@@ -1,6 +1,6 @@
 * {box-sizing: border-box}
 
-.wpicTabs {
+.eicTabs {
   float: left;
   border: 1px solid #ccc;
   background-color: #f1f1f1;
@@ -10,7 +10,7 @@
 }
 
 
-.wpicTabs button {
+.eicTabs button {
   display: block;
   background-color: inherit;
   color: black;
@@ -28,21 +28,21 @@
 }
 
 
-.wpicTabs button:hover {
+.eicTabs button:hover {
   background-color: #ddd;
 }
 
 
-.wpicTabs button.active {
+.eicTabs button.active {
   background-color: #007cba;
   color: white;
 }
 
-#wpic-header,#wpic-body,#wpic-footer{
+#eic-header,#eic-body,#eic-footer{
     padding-left: 37px !important; 
 }
 
-.wpicTabcontent {
+.eicTabcontent {
   float: left;
   padding: 0px 12px;
   border: 1px solid #ccc;
@@ -52,7 +52,7 @@
   
 }
 
-.kau-wpic-settings-btn{
+.kau-eic-settings-btn{
     margin-top: 30px !important;
     justify-content: center !important;
 }
